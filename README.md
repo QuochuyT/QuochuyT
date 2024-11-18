@@ -40,7 +40,7 @@
         <a href="https://github.com/QuochuyT/Tran-Portfolio" target="_blank">
           <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="Code GitHub" />
         </a>
-        <a href="quochuyt.github.io/Tran-Portfolio/" target="_blank">
+        <a href="https://quochuyt.github.io/Tran-Portfolio/" target="_blank">
           <img src="https://img.shields.io/badge/Demo-Voir%20la%20démo-orange?style=for-the-badge" height="25" alt="Démo" />
         </a>
       </div>
