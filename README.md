@@ -98,9 +98,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=QuochuyT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=flag-india&hide_border=false" height="150" alt="Top Langs" />
 </div>
 
----
 
-### 🐍 Contributions
-<div align="center">
-  <img src="https://raw.githubusercontent.com/QuochuyT/QuochuyT/output/snake.svg" alt="Snake animation" />
-</div>
