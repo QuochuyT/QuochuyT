@@ -35,7 +35,7 @@
   <ul>
     <li>
       <h3>Mon Portfolio</h3>
-      <p>Ce projet est simplement mon Portfolio pro, créé dans le cadre de mon apprentissage du développement web. Un projet conçu pour pratiquer HTML5, SCSS, JavaScript, un peu de Php et la structure de fichiers d'un projet.</p>
+      <p>Ce projet est simplement mon Portfolio pro, créé dans le cadre de mon apprentissage du développement web. Un projet conçu pour pratiquer HTML5, SCSS, JavaScript et la structure de fichiers d'un projet.</p>
       <div>
         <a href="https://github.com/QuochuyT/Tran-Portfolio" target="_blank">
           <img src="https://img.shields.io/static/v1?label=Code&message=GitHub&color=blue&style=for-the-badge" height="25" alt="Code GitHub" />
